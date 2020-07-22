@@ -19,3 +19,4 @@
 - pracitce06 = 문자열 ASCII 넘버 활용 숫자 색출, 10배수
 - pracitce07 = 문자열 ASCII 넘버 활용 대소문자 구분, 공백 포함 문자열 gets() 입력
 - pracitce08 = 괄호 대칭 찾기, flag = 0 에서 +1 또는 -1 통한 검증
+- pracitce09 = 순차적 약수 개수 구하기(1초이내), Bottom-up ( 1 부터 n 까지 자신의 배수 개수)
