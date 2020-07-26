@@ -27,3 +27,4 @@
 - pracitce14 = 숫자 뒤집기 및 소수 확인
 - pracitce15 = 소수는 해당 숫자를 만들 수 있는 약수의 절반만 확인해도 가능(거듭제곱)
 - pracitce16 = ANAGRAM, 대문자 + 소문자 배열
+- pracitce17 = 1 ~ N 까지의 합
