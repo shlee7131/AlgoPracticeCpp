@@ -28,4 +28,7 @@
 - pracitce15 = 소수는 해당 숫자를 만들 수 있는 약수의 절반만 확인해도 가능(거듭제곱)
 - pracitce16 = ANAGRAM, 대문자 + 소문자 배열
 - pracitce17 = 1 ~ N 까지의 합
-- pracitce17 = 조건 부합하는 최대 연속 횟수 구하기
+- pracitce18 = 조건 부합하는 최대 연속 횟수 구하기
+- pracitce19 = Stack 활용
+- pracitce20 = Vector 활용, vec[인덱스]
+- pracitce21 = 기본 설계
