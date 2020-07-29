@@ -34,3 +34,4 @@
 - pracitce21 = 기본 설계
 - pracitce22 = Queue 활용, push(), pop(), front()
 - pracitce23 = 연속 부분 증가수열
+- pracitce24 = STL algorithm, 절대값 abs(num)
