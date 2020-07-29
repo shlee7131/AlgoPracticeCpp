@@ -33,3 +33,4 @@
 - pracitce20 = Vector 활용, vec[인덱스]
 - pracitce21 = 기본 설계
 - pracitce22 = Queue 활용, push(), pop(), front()
+- pracitce23 = 연속 부분 증가수열
