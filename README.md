@@ -32,3 +32,4 @@
 - pracitce19 = Stack 활용
 - pracitce20 = Vector 활용, vec[인덱스]
 - pracitce21 = 기본 설계
+- pracitce22 = Queue 활용, push(), pop(), front()
