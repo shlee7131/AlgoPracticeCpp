@@ -35,3 +35,6 @@
 - pracitce22 = Queue 활용, push(), pop(), front()
 - pracitce23 = 연속 부분 증가수열
 - pracitce24 = STL algorithm, 절대값 abs(num)
+- pracitce25 = Brute Force, 이중 루프
+- pracitce26 = 최적
+- pracitce27 = 소인수 분해 응용
