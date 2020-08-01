@@ -38,3 +38,5 @@
 - pracitce25 = Brute Force, 이중 루프
 - pracitce26 = 최적
 - pracitce27 = 소인수 분해 응용
+- pracitce28 = 소인수 분해 응용
+- pracitce29 = 자릿수 구하기
