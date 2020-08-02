@@ -40,3 +40,6 @@
 - pracitce27 = 소인수 분해 응용
 - pracitce28 = 소인수 분해 응용
 - pracitce29 = 자릿수 구하기
+- pracitce31 = 숫자 변환
+- pracitce33 = 선택정렬 응용
+- pracitce35 = 버블정렬 응용
