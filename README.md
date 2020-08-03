@@ -43,3 +43,4 @@
 - pracitce31 = 숫자 변환
 - pracitce33 = 선택정렬 응용
 - pracitce35 = 버블정렬 응용
+- pracitce36 = 삽입정렬, 2번째 원소 key 값 앞의 배열을 정렬시키면서 진행
