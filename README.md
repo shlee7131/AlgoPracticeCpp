@@ -44,3 +44,4 @@
 - pracitce33 = 선택정렬 응용
 - pracitce35 = 버블정렬 응용
 - pracitce36 = 삽입정렬, 2번째 원소 key 값 앞의 배열을 정렬시키면서 진행
+- pracitce37 = 삽입정렬 응용, 캐쉬 메모리 LRU
