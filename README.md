@@ -47,3 +47,4 @@
 - pracitce37 = 삽입정렬 응용, 캐쉬 메모리 LRU
 - pracitce38 = 삽입정렬 응용, Inversion Sequence
 - pracitce39 = 병합정렬 기초
+- pracitce40 = 투포인트, 교집합
