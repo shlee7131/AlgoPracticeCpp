@@ -48,3 +48,4 @@
 - pracitce38 = 삽입정렬 응용, Inversion Sequence
 - pracitce39 = 병합정렬 기초
 - pracitce40 = 투포인트, 교집합
+- pracitce41 = 연속된 자연수의 합
