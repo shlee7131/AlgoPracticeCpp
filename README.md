@@ -49,3 +49,4 @@
 - pracitce39 = 병합정렬 기초
 - pracitce40 = 투포인트, 교집합
 - pracitce41 = 연속된 자연수의 합
+- pracitce42 = 이분 검색
