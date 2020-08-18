@@ -51,3 +51,4 @@
 - pracitce41 = 연속된 자연수의 합
 - pracitce42 = 이분 검색
 - pracitce43 = 이분 검색 응용: 결정 알고리즘
+- pracitce44 = 이분 검색 응용s
